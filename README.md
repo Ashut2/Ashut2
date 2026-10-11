@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Ashutosh from India & building Infrastructure on which applications can run
+
+You can find me on places ->
+
+`linkedin`: https://www.linkedin.com/in/ashutosh1shukla/?isSelfProfile=true
+
+`X`: https://x.com/AshutoshSh1382
+
+`patreon`: https://www.patreon.com/cw/Ashu666
 
 <!--
 **Ashut2/Ashut2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
